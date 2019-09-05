@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/user1/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/user1/project_1/project_1.srcs/sim_1/new/tb_and_or.v,1567726224,verilog,,,,tb_and_or,,,,,,,,
+/home/user1/project_1/project_1.srcs/sources_1/new/and2.v,1567725672,verilog,,/home/user1/project_1/project_1.srcs/sources_1/new/and_or.v,,and2,,,,,,,,
+/home/user1/project_1/project_1.srcs/sources_1/new/and_or.v,1567725859,verilog,,/home/user1/project_1/project_1.srcs/sources_1/new/or2.v,,and_or,,,,,,,,
+/home/user1/project_1/project_1.srcs/sources_1/new/or2.v,1567725701,verilog,,/home/user1/project_1/project_1.srcs/sim_1/new/tb_and_or.v,,or2,,,,,,,,
